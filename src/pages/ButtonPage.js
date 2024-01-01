@@ -1,9 +1,8 @@
 import { GoBell, GoDatabase } from 'react-icons/go';
-import Button from './components/Button';
+import Button from './../components/Button';
 
 function ButtonPage() {
   const handleClick = () => {
-    console.log('Clicked!');
   };
 
   return (
